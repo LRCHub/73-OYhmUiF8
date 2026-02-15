@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "退屈を再演しないで",
+  "base_artist": "Eve",
+  "createdAt": "2026-02-15T09:06:08.403365Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "退屈を再演しないで",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_退屈を再演しないで_Eve.txt"
+    }
+  ]
+}
